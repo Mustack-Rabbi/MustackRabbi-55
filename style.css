@@ -8,12 +8,12 @@ body {
   height: 1274px;
   width: 800px;
   background-color: #2E7D32;
-  margin: 100px 140px;
+  margin: auto;
 }
 
 
 h1  {
-  color: green ;
+  color: green;
 }
 .heading {
   background-color: #1B5E20;
