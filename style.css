@@ -5,7 +5,7 @@ body {
   background-color: #64B5F6;
 }
 .bodybox {
-  height: 1274px;
+  height: 1400px;
   width: 800px;
   background-color: #2E7D32;
   margin: auto;
@@ -13,7 +13,7 @@ body {
 
 
 h1  {
-  color: green;
+  color: green ;
 }
 .heading {
   background-color: #1B5E20;
@@ -71,13 +71,27 @@ img {
    background-color:;
    margin-top: 10px;
  }
- .class-work {
+ .class-work, .my-project {
    color: white;
    font-size: 22px;
    background-color: #388E3C;
    margin: 15px;
    padding: 40px 10px 100px 10px;
  }
+/* 
+   (class-work = my-project)
+.my-project {
+   color: white;
+   font-size: 22px;
+     background-color: #388E3C;
+     margin: 15px;
+     padding: 40px 10px 100px 10px;
+ }*/
+ 
+ 
+ 
+ 
+ 
  .class-work-a {
    padding: px;
    color: white;
