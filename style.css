@@ -1,6 +1,6 @@
 body {
-  height: 1920px;
-  width: 1080px;
+  height: 100%;
+  width: 100%;
   align-items: center ;
   background-color: #64B5F6;
 }
